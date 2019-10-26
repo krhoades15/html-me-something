@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: grey;
+}
+
+h3, ul, li {
+    text-align: left;
+}
+
+img {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+header, p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
